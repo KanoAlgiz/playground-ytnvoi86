@@ -21,6 +21,12 @@ System.out.println(message);
 
 Some more text and another example
 
+?[What is the answer to Life, the Universe and Everything?]
+-[ ] There is no answer to that!
+-[ ] Sleep and eat
+-[x] Easy, this is 42
+-[ ] Peace & Love
+
 ```java runnable
 // { autofold
 public class Main {
